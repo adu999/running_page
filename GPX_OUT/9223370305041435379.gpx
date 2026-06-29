@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from keep</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="38.87878667814939" lon="115.51712332851554">
+        <ele>8.648311091586947</ele>
+        <time>2024-11-17T03:09:24Z</time>
+      </trkpt>
+      <trkpt lat="38.878726559447145" lon="115.51706813024421">
+        <ele>14.0505658445479</ele>
+        <time>2024-11-17T03:09:30Z</time>
+      </trkpt>
+      <trkpt lat="38.87867055783458" lon="115.5170560921513">
+        <ele>14.85423860184259</ele>
+        <time>2024-11-17T03:09:33Z</time>
+      </trkpt>
+      <trkpt lat="38.8785867275442" lon="115.51710026670627">
+        <ele>20.585500408134724</ele>
+        <time>2024-11-17T03:09:36Z</time>
+      </trkpt>
+      <trkpt lat="38.87851764445008" lon="115.51705611060495">
+        <ele>18.0011581490405</ele>
+        <time>2024-11-17T03:09:42Z</time>
+      </trkpt>
+      <trkpt lat="38.87822348307456" lon="115.51693770489574">
+        <ele>14.995397404721045</ele>
+        <time>2024-11-17T03:10:27Z</time>
+      </trkpt>
+      <trkpt lat="38.87817747019941" lon="115.51692365808113">
+        <ele>13.661179929351126</ele>
+        <time>2024-11-17T03:10:30Z</time>
+      </trkpt>
+      <trkpt lat="38.878154335895154" lon="115.51687046258405">
+        <ele>11.873073320160826</ele>
+        <time>2024-11-17T03:10:36Z</time>
+      </trkpt>
+      <trkpt lat="38.87817053529645" lon="115.5169457412081">
+        <ele>11.568175046675368</ele>
+        <time>2024-11-17T03:11:18Z</time>
+      </trkpt>
+      <trkpt lat="38.87835175784557" lon="115.51706315678761">
+        <ele>8.985725883208952</ele>
+        <time>2024-11-17T03:11:27Z</time>
+      </trkpt>
+      <trkpt lat="38.87845874725747" lon="115.51708121114876">
+        <ele>7.650230797551103</ele>
+        <time>2024-11-17T03:11:33Z</time>
+      </trkpt>
+      <trkpt lat="38.87880383501302" lon="115.5171835505772">
+        <ele>7.59672764053772</ele>
+        <time>2024-11-17T03:11:48Z</time>
+      </trkpt>
+      <trkpt lat="38.87887088029317" lon="115.51721365452181">
+        <ele>6.628207817617501</ele>
+        <time>2024-11-17T03:11:54Z</time>
+      </trkpt>
+      <trkpt lat="38.878910979666045" lon="115.51725781396416">
+        <ele>6.860680725977322</ele>
+        <time>2024-11-17T03:12:00Z</time>
+      </trkpt>
+      <trkpt lat="38.87918587936482" lon="115.51727785545022">
+        <ele>7.5019243860145775</ele>
+        <time>2024-11-17T03:12:39Z</time>
+      </trkpt>
+      <trkpt lat="38.87923088991421" lon="115.5172908985421">
+        <ele>6.678578733880852</ele>
+        <time>2024-11-17T03:12:45Z</time>
+      </trkpt>
+      <trkpt lat="38.87929195791741" lon="115.51732802925684">
+        <ele>2.522265568753348</ele>
+        <time>2024-11-17T03:14:39Z</time>
+      </trkpt>
+      <trkpt lat="38.87937892802797" lon="115.51733504488261">
+        <ele>5.636432507075369</ele>
+        <time>2024-11-17T03:14:42Z</time>
+      </trkpt>
+      <trkpt lat="38.879506971884155" lon="115.51737718613096">
+        <ele>12.69491445662726</ele>
+        <time>2024-11-17T03:14:48Z</time>
+      </trkpt>
+      <trkpt lat="38.87955893133498" lon="115.51737316493903">
+        <ele>12.241028586702752</ele>
+        <time>2024-11-17T03:14:51Z</time>
+      </trkpt>
+      <trkpt lat="38.879686144642264" lon="115.51747653371335">
+        <ele>9.8307629722033</ele>
+        <time>2024-11-17T03:15:00Z</time>
+      </trkpt>
+      <trkpt lat="38.8797920430299" lon="115.5174614650097">
+        <ele>10.609887516544049</ele>
+        <time>2024-11-17T03:15:15Z</time>
+      </trkpt>
+      <trkpt lat="38.879792040260874" lon="115.5174604612815">
+        <ele>9.812961312117617</ele>
+        <time>2024-11-17T03:15:39Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
