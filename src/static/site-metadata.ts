@@ -17,7 +17,7 @@ const getBasePath = () => {
 const data: ISiteMetadataResult = {
   siteTitle: '老杜跑步',
   siteUrl: 'https://adu999.github.io/running_page',
-  logo: '',
+  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
   description: '每一步都算数',
   navLinks: [
     {
