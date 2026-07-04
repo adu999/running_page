@@ -33,6 +33,8 @@ const YearsStat = ({
         <p className="leading-relaxed">
           {infoMessage}
           <br />
+          <br />
+          今天不想跑，所以才去跑。--村上春树
         </p>
       </section>
       <hr />
