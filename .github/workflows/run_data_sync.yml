@@ -1,9 +1,5 @@
 name: Run Data Sync
 
-permissions:/n  contents: write
-  pages: write
-  id-token: write
-
 on:
   workflow_dispatch:
   schedule:
